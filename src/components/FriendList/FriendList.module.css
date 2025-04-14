@@ -1,0 +1,15 @@
+.friendList {
+    width: 300px;
+    margin: 0 auto;
+    padding: 0;
+    list-style: none;
+    margin-bottom: 30px;
+}
+
+.friendList li {
+    margin-bottom: 10px;
+}
+
+.friendList li:last-child {
+    margin-bottom: 0;
+}
