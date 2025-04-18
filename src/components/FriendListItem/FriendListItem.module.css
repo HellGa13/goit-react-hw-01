@@ -8,20 +8,18 @@
     margin-bottom: 10px;
 }
 
-.status {
-    width: 10px;
-    height: 10px;
-    border-radius: 50%;
-    margin-right: 10px;
-    font-size: 0;
+.statusText {
+    font-size: 16px;
+    font-weight: bold;
+    color: #2b2b2b;
 }
 
 .online {
-    background-color: #4caf50;
+    color: #4caf50;
 }
 
 .offline {
-    background-color: #f44336;
+    color: #f44336;
 }
 
 .avatar {
